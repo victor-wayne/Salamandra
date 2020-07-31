@@ -25,7 +25,8 @@ class ContactUSController extends Controller
 
         ContactUs::create($request->all());
 
-
+        //$data  = $request->all();
+        //dd($data);
         Mail::send('emails.welcome', array(
             'email' => $request->get('email'),
             'body'=> $request->get('body'),
@@ -42,8 +43,7 @@ class ContactUSController extends Controller
         return back()->with('success', 'Gracias por contactarnos');
 
 
-        //$data  = $request->all();
-        //dd($data);
+
 
     }
 }
