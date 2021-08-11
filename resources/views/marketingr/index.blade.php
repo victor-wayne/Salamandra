@@ -45,7 +45,7 @@
                             <li class="active"><a href="#">Inicio</a></li>
                             <li><a href={{ route('servicios') }}>Nuestros Servicios</a></li>
                             <li><a href="{{ route('mkt') }}">MKT Médico</a></li>
-                            <li><a href="#">Promociones</a></li>
+                            <li><a href="http://salamandramarketing.hubspotpagebuilder.com/salamandra-marketing">Promociones</a></li>
                             <li><a href="{{ route('contactus-show') }}">Contacto</a></li>
                         </ul>
                     </div>
@@ -275,7 +275,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
                         <div class="step_blog">
                             <div class="step_inner">
-                                <img src="{{ asset('images/farmacia-herrera.png') }}" alt="#" />
+                                <img src="{{ asset('images/bachoco.png') }}" alt="#" />
                             </div>
                         </div>
                     </div>
