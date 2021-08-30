@@ -45,7 +45,7 @@
                             <li class="active"><a href="{{ route('home') }}">Inicio</a></li>
                             <li><a href="{{ route('servicios') }}">Nuestros Servicios</a></li>
                             <li><a href="{{route('mkt')}}">MKT Médico</a></li>
-                            <li><a href="#">Promociones</a></li>
+                            <li><a href=http://salamandramarketing.hubspotpagebuilder.com/salamandra-marketing">Promociones</a></li>
                             <li><a href="#">Contacto</a></li>
                         </ul>
                     </div>
