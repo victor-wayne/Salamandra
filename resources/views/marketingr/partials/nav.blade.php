@@ -8,6 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="viewport" content="initial-scale=1, maximum-scale=1">
     <!-- site metas -->
+    <meta name="facebook-domain-verification" content="h42fr0ladpwm3fpvj88g9gkbkj4qbr" />
     <title>SALAMANDRA- Agencia de Marketing</title>
     <meta name="keywords" content="">
     <meta name="description" content="">
